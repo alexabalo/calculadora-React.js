@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alexabalo/calculadora.git/static/css/main.63e6e626.css",
-    "main.js": "/alexabalo/calculadora.git/static/js/main.d1433496.js",
-    "static/media/logo.png": "/alexabalo/calculadora.git/static/media/logo.5b8338ffba008ff3f73b.png",
-    "index.html": "/alexabalo/calculadora.git/index.html",
-    "main.63e6e626.css.map": "/alexabalo/calculadora.git/static/css/main.63e6e626.css.map",
-    "main.d1433496.js.map": "/alexabalo/calculadora.git/static/js/main.d1433496.js.map"
+    "main.css": "/calculadora/static/css/main.63e6e626.css",
+    "main.js": "/calculadora/static/js/main.ec4d27bf.js",
+    "static/media/logo.png": "/calculadora/static/media/logo.5b8338ffba008ff3f73b.png",
+    "index.html": "/calculadora/index.html",
+    "main.63e6e626.css.map": "/calculadora/static/css/main.63e6e626.css.map",
+    "main.ec4d27bf.js.map": "/calculadora/static/js/main.ec4d27bf.js.map"
   },
   "entrypoints": [
     "static/css/main.63e6e626.css",
-    "static/js/main.d1433496.js"
+    "static/js/main.ec4d27bf.js"
   ]
 }
